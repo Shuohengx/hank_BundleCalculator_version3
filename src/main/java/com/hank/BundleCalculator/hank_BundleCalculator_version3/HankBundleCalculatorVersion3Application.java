@@ -15,7 +15,7 @@ import java.io.IOException;
 public class HankBundleCalculatorVersion3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HankBundleCalculatorVersion3Application.class, args);
+	//	SpringApplication.run(HankBundleCalculatorVersion3Application.class, args);
 
 		//-----------------------------------------------
 		ConfigLoader configLoader = new ConfigLoader();
